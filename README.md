@@ -1,4 +1,4 @@
-# CONSTRUCONTROL — Sistema Industrial de Control de Obras
+# CONSTRUCONTROL — Sitema de control de costos de construccion
 > Base de datos: **Supabase** (PostgreSQL en la nube, gratis)
 
 ---
